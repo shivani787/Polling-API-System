@@ -1,4 +1,5 @@
 **Project Polling API**
+
 This app is a Backend build for Polling System.
 
 App provides you the APIs to interact with the database. Anyone can create questions with options and also add votes to it. Authentication/User identity is not needed, this is going to be a completely open application.

@@ -1,0 +1,16 @@
+{
+  "name": "polling-api",
+  "version": "1.0.0",
+  "description": "Backend Project for polling api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogesh Bhat",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  }
+}
